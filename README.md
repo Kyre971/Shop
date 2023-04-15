@@ -1,4 +1,4 @@
-# Simple Shop
+# Shop
 
 > Simple Online Shop build with C# ASP.NET CORE + Angular Typescript
 
