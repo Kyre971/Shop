@@ -1,6 +1,6 @@
 # Shop
 
-> Simple Online Shop build with C# ASP.NET CORE + Angular Typescript
+>Shop build with C# ASP.NET CORE + Angular Typescript
 
 ## URL
 
